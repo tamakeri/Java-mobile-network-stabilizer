@@ -1,2 +1,4 @@
-# Java-mobile-network-stabilizer git init git add README.md git commit -m first commit git branch -M main git remote add origin https://github.com/Tamakeri/Java-mobile-network-stabilizer.git git push -u origin main
-# Java-mobile-network-stabilizer
+
+if you having trouble to maintain your internet connectivity this is the jam!
+
+check for release page or  batch script
